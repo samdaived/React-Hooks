@@ -1,0 +1,23 @@
+html,body {
+  height: 100%;
+  min-height: 100%;
+  background-image: linear-gradient(to right, #003b46, #37606b, #658992, #93b3bb, #c4dfe6);
+  text-align: center
+}
+
+.container{
+  min-height: 80% !important;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content:center;
+}
+
+input{
+
+  border-radius: 10px;
+  height: 8%;
+  font-size: 1.1rem;
+  text-align: center; 
+  margin: 10% 10px;
+}

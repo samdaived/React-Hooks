@@ -1,0 +1,10 @@
+.list{
+    height: 4%;
+    border: solid 1px white;
+    border-radius: 10px;
+    width: 200px;
+    margin:1%;
+    background-image: linear-gradient(to left bottom, #07575b, #193f50, #232938, #1c161d, #000000);
+    color: white;
+    cursor: pointer;
+}
